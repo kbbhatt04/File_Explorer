@@ -52,3 +52,5 @@ ESC key is used to go back to Normal Mode
 
 
 # Demonstration
+
+![file_explorer_demo](https://user-images.githubusercontent.com/58835108/192150706-63968081-ee80-4683-bb32-1111e1b431b2.gif)
